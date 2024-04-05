@@ -1,0 +1,24 @@
+##operating system
+-> Choose OS
+-> Emulation and game OS
+-> RetroPie
+
+
+#on pi
+--Configure Gamepad
+--RASPI-CONFIG
+	->Localisation Options
+		-Set WLAN Country
+	->Display Options
+		-Disable UNDERSCAN
+	->Interface Options
+		-Enable SSH	
+--WIFI 
+	->Connect to WiFi network
+
+
+
+--Assign Static IP Address to retropie
+
+
+
