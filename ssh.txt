@@ -1,0 +1,17 @@
+###SSH
+ssh pi@192.168.1.42
+password : raspberry (default)
+
+###SAMBA
+sudo apt install samba
+sudo nano /etc/samba/smb.conf
+	[retropie]
+	comment = retropie
+	path = /
+	read only = no
+	browsable = yes
+sudo smbpasswd -a pi
+sudo service smbd restart
+
+###DRIVE MAP
+\\192.168.1.42\roms
