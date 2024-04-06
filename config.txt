@@ -1,0 +1,40 @@
+Hardware Specifications
+
+
+Raspberry Pi 4 Model B
+•	Broadcom BCM2711, Quad core Cortex-A72 (ARM v8) 64-bit SoC @ 1.8GHz
+•	4GB LPDDR4-3200 SDRAM 
+•	2.4 GHz and 5.0 GHz IEEE 802.11ac wireless, Bluetooth 5.0, BLE
+•	1000 Mbps Gigabit Ethernet Port
+•	40 pin GPIO Header
+•	Micro SD Card slot
+•	5V DC USB Type C
+
+Power Supply 
+•	AC 100-240V 50/60Hz Input
+•	DC 5.1V 3A Output
+•	15.3W maximum output power
+•	1.5m 18AWG captive cable
+•	USB-C output connector
+
+Primary Storage (Operating System)
+•	SanDisk Ultra microSDXC UHS-I Card
+•	Capacity – 64GB
+•	Transmission Speed – Up to 140MB/s
+•	Class 10
+
+Networking
+•	Asus RT AC 51U Dual Band Router
+•	1GBPS LAN Support
+•	2.4/5GHz Wireless Connectivity
+
+Case
+•	Black Compact ABS Case with Cooling Fan Slot
+•	40 mm Cooling Fan (5v 0.2A)
+•	Aluminium Heat Sink
+
+Gamepad
+•	RedGear Pro Wireless
+•	2.4GHz Wireless
+•	Dual Vibration Motors
+
